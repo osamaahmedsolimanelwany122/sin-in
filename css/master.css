@@ -1,0 +1,101 @@
+*{
+background-image: url(https://4.bp.blogspot.com/-HzbancK1ge8/Vaokj-M2EGI/AAAAAAAAANo/DcOyEEYn5bA/s1600/exagons-wallpaper-1600x900.jpg);
+}  
+.tit {
+  
+
+    width: 150px;
+    height: 150px;
+}
+    
+   
+.z{
+    margin-top: 180px;
+    margin-left: 408px;
+    color: red;
+}
+.zz{
+    margin-top: 29px;
+    margin-left: 408px;
+}
+.pipo{
+    color: red;
+    border: rgb(2, 247, 255) 2px solid;
+    padding-bottom: 6px;
+}
+.ppp{
+    color: red;
+    border: rgb(2, 247, 255) 2px solid;
+    padding-bottom: 6px;
+}
+.ziz{
+    color: red;
+    border: 2px rgb(2, 247, 255) solid;
+    margin-left: 470px;
+    margin-top: -120px;
+}
+.t{
+
+
+    text-align: center;
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: bold;
+     display: flex;
+     justify-content: center;   
+ }
+.t div {
+    display: flex;
+    justify-content: center;
+    color:firebrick;
+   animation-name: up-and-down;
+   animation-duration: 0.9s;
+   animation-iteration-count:infinite;
+   animation-direction: alternate;
+   margin: 0px;
+   padding: 0px;
+   animation-fill-mode: forwards;
+   text-shadow:  4px 1px 0px black ;
+   
+}
+.two{
+    animation-delay: 0.3s;
+}
+.three{
+    animation-delay: 0.6s;
+}
+.four{
+    animation-delay: 0.9;
+}
+.five{
+    animation-delay: 0.12s;
+}
+
+
+
+@keyframes up-and-down{
+    to{
+       
+     color: aqua;  
+     transform: translateY(150px);
+    }
+}
+
+
+ 
+::placeholder{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
